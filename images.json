@@ -1,7 +1,7 @@
 [
   {
     "Caption": "A description of the image",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "ImageUrl": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
     "Date": "2024-31-2024 00:00:00",
   }
 ]
