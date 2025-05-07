@@ -1,0 +1,20 @@
+Privacy Policy
+Your Privacy
+
+This app is designed for personal use by a small group of users and does not collect, store, or share any personal information.
+
+Data Access
+
+The app displays images and associated text that are hosted online via Firebase Storage. These files are not user-generated and do not contain personally identifiable information.
+
+No Tracking
+
+This app does not include analytics, tracking, advertising, or third-party data collection of any kind.
+
+Authentication
+
+Anonymous authentication is used only to securely access images hosted in Firebase Storage. No user accounts, emails, or identifiers are stored or tracked.
+
+Contact
+
+If you have any questions about this privacy policy, please contact the app developer.
